@@ -1,0 +1,29 @@
+body{
+    padding: 15% 23%;
+    background-image: linear-gradient(black,rgb(88, 88, 88),black);
+}
+table,td{
+    border: 1px solid rgb(161, 161, 161);
+    text-align: center;
+    border-collapse:separate;
+    border-radius: 4px;
+    color: rgba(255, 255, 255, 0.781);
+}
+table{
+    padding: 4px;
+}
+td{
+    background-color: black;
+    box-shadow: 0px 0px 20px rgb(76, 13, 105);
+    font-size: 15px;
+}
+td{
+    width: 40px;
+    height: 28px;
+}
+.tr4 .td1{
+    font-size: 13px;
+}
+.tr2 .td13{
+    font-size: 12px;   
+}
